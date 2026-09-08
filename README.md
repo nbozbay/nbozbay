@@ -1,9 +1,9 @@
-# Merhaba, ben Necmi Burhan Özbay 👋
+<h1 align="center">Hi, I'm Necmi Burhan Özbay 👋</h1>
 
-Modern, performanslı ve kullanıcı odaklı web uygulamaları geliştiriyorum.
+I build modern, performant, and user-centric web applications.
 
-Arayüz geliştirme süreçlerinde ağırlıklı olarak **React.js**, **TypeScript**, **JavaScript**, **SCSS** ve **REST API** entegrasyonları ile temiz ve sürdürülebilir kodlar üretiyorum.
+In front-end development, I craft clean and maintainable code, primarily focusing on **React.js**, **TypeScript**, **JavaScript**, **SCSS**, and **REST API** integrations.
 
 ---
 
-📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/necmi-burhan-%C3%B6zbay-78a383206/)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/necmi-burhan-%C3%B6zbay-78a383206/)
