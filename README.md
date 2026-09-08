@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Necmi Burhan Özbay 👋</h1>
 
-I build modern, performant, and user-centric web applications.
+- Frontend Developer passionate about building intuitive, high-performance web applications using React and TypeScript.
 
-In front-end development, I craft clean and maintainable code, primarily focusing on **React.js**, **TypeScript**, **JavaScript**, **SCSS**, and **REST API** integrations.
+- I focus on writing clean and maintainable code using React.js, TypeScript, JavaScript, SCSS, and REST APIs.
 
 ---
 
